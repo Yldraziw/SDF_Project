@@ -12,3 +12,6 @@ package sdf_cardgameproject;
 public class SDF_CardHand {
     
 }
+
+
+//TODO: 
